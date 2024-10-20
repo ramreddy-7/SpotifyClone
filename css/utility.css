@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+.border{
+    border : 2px solid black ;
+}
+.justify-content{
+    justify-content: center;
+}
+.align-items{
+    align-items: center;
+}
+.filter{
+    filter: invert(1);
+}
